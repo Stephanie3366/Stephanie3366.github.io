@@ -301,7 +301,7 @@ h6 {
     background: url("../img/Notebook.jpeg") top right no-repeat;
     background-size: cover;
     position: relative;
-    background-position: 20% 40%;
+    background-position: 0% 35%;
 }
 
 @media (min-width: 992px) {
